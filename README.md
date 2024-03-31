@@ -1,6 +1,7 @@
-### Hi there 👋
-Kill me pls (:
+## Hi there, I'm Gergő 👋
+🌱I'm a Computer Science Engineering Bsc student at Széchenyi István University.
 
+🔭Currently, my goal is to find the particular area of my interest regarding IT and software developement.
 <!--
 **gera0719/gera0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
